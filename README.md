@@ -4,7 +4,7 @@
 
 # Project Overview
 
-# Here is the main question you are trying to solve while working on this case study:
+# Here is the main questions you are trying to solve while working on this case study:
 
 ## 1. Which borough of London has seen the greatest average increase in housing prices over
 ## the (approximately) two decades covered by the dataset? 
