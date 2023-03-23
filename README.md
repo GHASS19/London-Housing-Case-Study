@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/86930309/227357207-08b4ce0f-4cdc-4fff-9cbe-86a520625240.png)
 
-Project Overview
+# Project Overview
 
-Here is the question you are trying to solve while working on this case study:
+# Here is the main question you are trying to solve while working on this case study:
 
 ## 1. Which borough of London has seen the greatest average increase in housing prices over
 the (approximately) two decades covered by the dataset? 
